@@ -16,7 +16,7 @@ customElements.define('sf-sym', class extends HTMLElement {
     const name = this.getAttribute('name');
     if (!name) return;
 
-    const url = `./icons/${name}.svg`;
+    const url = `https://cdn.jsdelivr.net/gh/technonyte00/sf-symbols@main/icons/${name}.svg`;
 
     try {
       let svgText = iconCache.get(url);
