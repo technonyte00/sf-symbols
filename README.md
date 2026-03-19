@@ -5,7 +5,7 @@ The **Icon Engine** is a lightweight Web Component that renders 6,000+ Apple sym
 
 **CDN**
 ```html
-<script src="https://cdn.jsdelivr.net/gh/username/repo@main/script.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/technonyte00/sf-symbols@main/script.js"></script>
 ```
 
 **Usage:**
@@ -29,7 +29,7 @@ Use Apple's signature SF Pro font without annoying downloads or applications.
 
 **CDN**
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/username/repo@main/fonts.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/technonyte00/sf-symbols@main/fonts.css">
 ```
 
 **Usage:**
